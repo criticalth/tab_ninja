@@ -1,12 +1,81 @@
 {
   "collections": [
     {
+      "id": "980009b0-f741-4fa7-a74c-bec95a9686cd",
+      "name": "Admin",
+      "isOpen": true,
+      "lastModified": 1760430520573,
+      "deleted": false,
+      "position": 0,
+      "bookmarks": [
+        {
+          "id": "34cfefb2-eecf-4140-ab29-2ff21ba9d4fd",
+          "title": "Accesses",
+          "url": "https://ts.accenture.com/sites/SA.Conversational_AI/_layouts/15/Doc.aspx?sourcedoc={5c17fbd5-16d7-4f4b-812f-c3286f7950a9}&action=edit&wd=target%28Testing.one%7Ccd0fb580-f05f-497d-859f-8ffe628380a1%2F%F0%9F%94%91%20Access%20to%20COGNIGY%20systems%7C179dc70a-e98b-41d6-9f61-0c5cc922c722%2F%29&wdorigin=NavigationUrl",
+          "description": "One note with access",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760430079715,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
+        },
+        {
+          "id": "ed98ac63-952f-4fde-be6f-bb83ed96cc3b",
+          "title": "Jira",
+          "url": "https://jira.skoda.vwgroup.com/secure/RapidBoard.jspa?projectKey=FID2303&rapidView=68502",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760430097909,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
+        },
+        {
+          "id": "827841dc-0d71-4063-a821-ea6a9e04e8ec",
+          "title": "Skoda Azure DevOps",
+          "url": "https://devops.skoda.vwgroup.com/projects",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760430122085,
+          "deleted": false,
+          "position": 2,
+          "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
+        },
+        {
+          "id": "b1cd836b-33ca-4470-8736-daaccfd48b38",
+          "title": "Playbooks",
+          "url": "https://ts.accenture.com/sites/SA.Conversational_AI/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=RrXXZo&CID=b05e295e%2D77f2%2D4450%2Db0f9%2Df714bf899283&FolderCTID=0x01200094B74E08DD0D1B4B989B16565E43978C&id=%2Fsites%2FSA%2EConversational%5FAI%2FShared%20Documents%2FGeneral%2FCAI%20Project%2F03%5FProjectDelivery%2F04%20%2D%20Documentation%2FCAI%20Playbooks",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760430204856,
+          "deleted": false,
+          "position": 3,
+          "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
+        },
+        {
+          "id": "5703dca5-7ef1-4381-8c1a-ebfe32965171",
+          "title": "Docs",
+          "url": "https://wiki.skoda.vwgroup.com/spaces/FID2303/pages/897008701/Organisation+of+documentation",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760430217829,
+          "deleted": false,
+          "position": 4,
+          "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
+        }
+      ],
+      "spaces": [
+        "Everything",
+        "Skoda"
+      ]
+    },
+    {
       "id": "b7fea125-d5be-4068-84a5-040f57c70637",
       "name": "Kodar.Ninja",
       "isOpen": true,
-      "lastModified": 1760429924210,
+      "lastModified": 1760430520573,
       "deleted": true,
-      "position": 4,
+      "position": 1,
       "bookmarks": [
         {
           "title": "ThrustMe!",
@@ -58,10 +127,46 @@
       ]
     },
     {
+      "id": "e5fc1934-c6a5-4363-9ba0-fc45befff7c1",
+      "name": "VA",
+      "isOpen": true,
+      "lastModified": 1760430637280,
+      "deleted": false,
+      "position": 2,
+      "bookmarks": [
+        {
+          "id": "b210fdff-48af-4047-8036-f94caa8eec8f",
+          "title": "WebChat DEV",
+          "url": "https://webchat-skoda-dev.cognigy.cloud/v3/68693321295cf15dbfc5abbdf3fb403df954ff139f8eedc092ef6a67c122ee99?user=hristo",
+          "description": "With Track",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760430627327,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "e5fc1934-c6a5-4363-9ba0-fc45befff7c1"
+        },
+        {
+          "id": "7e1e8137-0506-4569-ba7c-6965d540080a",
+          "title": "Cognigy DEV",
+          "url": "https://skoda-dev.cognigy.cloud/project/64df190ee775d21c3a06ca23/64df190eaec1d16e23ea6bbf/flows",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760430637280,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "e5fc1934-c6a5-4363-9ba0-fc45befff7c1"
+        }
+      ],
+      "spaces": [
+        "Everything",
+        "Skoda"
+      ]
+    },
+    {
       "id": "85002503-c95c-4f3f-aaa8-e040ce92bf8a",
       "name": "Admin",
       "isOpen": true,
-      "lastModified": 1760429924210,
+      "lastModified": 1760430520573,
       "deleted": false,
       "position": 3,
       "bookmarks": [
@@ -171,12 +276,48 @@
       ]
     },
     {
+      "id": "2c1fb3f0-9680-487c-baca-b65c5c239193",
+      "name": "SalesForce API",
+      "isOpen": true,
+      "lastModified": 1760430520573,
+      "deleted": false,
+      "position": 4,
+      "bookmarks": [
+        {
+          "id": "ba17f28b-36d1-4670-b8ea-5d90b418fb98",
+          "title": "APIM",
+          "url": "https://portal.skoda-api.com/login",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760430334773,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "2c1fb3f0-9680-487c-baca-b65c5c239193"
+        },
+        {
+          "id": "0a7c4607-370a-4675-8628-2c46de113654",
+          "title": "Cognigy DEV",
+          "url": "https://skoda-dev.cognigy.cloud/project/64df18b5ec9232805f54a58f/64df18b527e4272be9356a65",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760430369311,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "2c1fb3f0-9680-487c-baca-b65c5c239193"
+        }
+      ],
+      "spaces": [
+        "Everything",
+        "Skoda"
+      ]
+    },
+    {
       "id": "212afe18-a83e-4899-ac4e-48c56c110036",
       "name": "Code",
       "isOpen": true,
-      "lastModified": 1760429924210,
+      "lastModified": 1760430520573,
       "deleted": false,
-      "position": 2,
+      "position": 5,
       "bookmarks": [
         {
           "id": "fae8e899-5cc0-43c0-805a-3086f631b19f",
@@ -199,78 +340,35 @@
       "id": "d13bc685-011f-4c7d-8f19-e57e2f4c9892",
       "name": "Skoda-Admin",
       "isOpen": true,
-      "lastModified": 1760429924210,
+      "lastModified": 1760430520573,
       "deleted": true,
-      "position": 1,
+      "position": 6,
       "bookmarks": [],
       "spaces": [
         "Everything"
       ]
     },
     {
-      "id": "980009b0-f741-4fa7-a74c-bec95a9686cd",
-      "name": "Admin",
+      "id": "f28b2343-3288-4f88-9675-1deb832f740f",
+      "name": "AAT",
       "isOpen": true,
-      "lastModified": 1760430217829,
+      "lastModified": 1760430520573,
       "deleted": false,
-      "position": 0,
-      "bookmarks": [
-        {
-          "id": "34cfefb2-eecf-4140-ab29-2ff21ba9d4fd",
-          "title": "Accesses",
-          "url": "https://ts.accenture.com/sites/SA.Conversational_AI/_layouts/15/Doc.aspx?sourcedoc={5c17fbd5-16d7-4f4b-812f-c3286f7950a9}&action=edit&wd=target%28Testing.one%7Ccd0fb580-f05f-497d-859f-8ffe628380a1%2F%F0%9F%94%91%20Access%20to%20COGNIGY%20systems%7C179dc70a-e98b-41d6-9f61-0c5cc922c722%2F%29&wdorigin=NavigationUrl",
-          "description": "One note with access",
-          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
-          "lastModified": 1760430079715,
-          "deleted": false,
-          "position": 0,
-          "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
-        },
-        {
-          "id": "ed98ac63-952f-4fde-be6f-bb83ed96cc3b",
-          "title": "Jira",
-          "url": "https://jira.skoda.vwgroup.com/secure/RapidBoard.jspa?projectKey=FID2303&rapidView=68502",
-          "description": "",
-          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
-          "lastModified": 1760430097909,
-          "deleted": false,
-          "position": 1,
-          "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
-        },
-        {
-          "id": "827841dc-0d71-4063-a821-ea6a9e04e8ec",
-          "title": "Skoda Azure DevOps",
-          "url": "https://devops.skoda.vwgroup.com/projects",
-          "description": "",
-          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
-          "lastModified": 1760430122085,
-          "deleted": false,
-          "position": 2,
-          "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
-        },
-        {
-          "id": "b1cd836b-33ca-4470-8736-daaccfd48b38",
-          "title": "Playbooks",
-          "url": "https://ts.accenture.com/sites/SA.Conversational_AI/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=RrXXZo&CID=b05e295e%2D77f2%2D4450%2Db0f9%2Df714bf899283&FolderCTID=0x01200094B74E08DD0D1B4B989B16565E43978C&id=%2Fsites%2FSA%2EConversational%5FAI%2FShared%20Documents%2FGeneral%2FCAI%20Project%2F03%5FProjectDelivery%2F04%20%2D%20Documentation%2FCAI%20Playbooks",
-          "description": "",
-          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
-          "lastModified": 1760430204856,
-          "deleted": false,
-          "position": 3,
-          "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
-        },
-        {
-          "id": "5703dca5-7ef1-4381-8c1a-ebfe32965171",
-          "title": "Docs",
-          "url": "https://wiki.skoda.vwgroup.com/spaces/FID2303/pages/897008701/Organisation+of+documentation",
-          "description": "",
-          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
-          "lastModified": 1760430217829,
-          "deleted": false,
-          "position": 4,
-          "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
-        }
-      ],
+      "position": 7,
+      "bookmarks": [],
+      "spaces": [
+        "Everything",
+        "Skoda"
+      ]
+    },
+    {
+      "id": "fe5fb5e3-5db9-4485-806e-552081c3ab28",
+      "name": "LT",
+      "isOpen": true,
+      "lastModified": 1760430520573,
+      "deleted": false,
+      "position": 8,
+      "bookmarks": [],
       "spaces": [
         "Everything",
         "Skoda"
@@ -315,6 +413,11 @@
       "name": "Skoda",
       "deleted": false,
       "lastModified": 1760429859432
+    },
+    {
+      "name": "AAT",
+      "deleted": true,
+      "lastModified": 1760430396380
     }
   ],
   "currentSpace": "Skoda",
@@ -332,5 +435,5 @@
     "repo": "tab_ninja",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1760430222701
+  "lastSynced": 1760430679923
 }
