@@ -4,9 +4,9 @@
       "id": "b7fea125-d5be-4068-84a5-040f57c70637",
       "name": "Kodar.Ninja",
       "isOpen": true,
-      "lastModified": 1760428160538,
-      "deleted": false,
-      "position": 1,
+      "lastModified": 1760429619328,
+      "deleted": true,
+      "position": 3,
       "bookmarks": [
         {
           "title": "ThrustMe!",
@@ -61,9 +61,9 @@
       "id": "85002503-c95c-4f3f-aaa8-e040ce92bf8a",
       "name": "Admin",
       "isOpen": true,
-      "lastModified": 1760429197097,
+      "lastModified": 1760429601680,
       "deleted": false,
-      "position": 0,
+      "position": 2,
       "bookmarks": [
         {
           "id": "d7e88a25-0f13-48f2-b736-9fcb32e1057b",
@@ -73,7 +73,7 @@
           "icon": "https://www.google.com/s2/favicons?domain=myte.accenture.com&sz=32",
           "lastModified": 1760428979526,
           "deleted": false,
-          "position": 0,
+          "position": 1,
           "parentCollection": "85002503-c95c-4f3f-aaa8-e040ce92bf8a"
         },
         {
@@ -84,7 +84,7 @@
           "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
           "lastModified": 1760429156221,
           "deleted": false,
-          "position": 1,
+          "position": 2,
           "parentCollection": "85002503-c95c-4f3f-aaa8-e040ce92bf8a"
         },
         {
@@ -95,13 +95,116 @@
           "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
           "lastModified": 1760429197097,
           "deleted": false,
-          "position": 2,
+          "position": 3,
+          "parentCollection": "85002503-c95c-4f3f-aaa8-e040ce92bf8a"
+        },
+        {
+          "id": "6d8245a6-cf6f-4e75-bada-62f3ca578766",
+          "title": "Aladin",
+          "url": "https://aladinss.azurewebsites.net/",
+          "description": "needs vpn",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760429311762,
+          "deleted": false,
+          "position": 4,
+          "parentCollection": "85002503-c95c-4f3f-aaa8-e040ce92bf8a"
+        },
+        {
+          "id": "fa8c6902-3c8c-4a10-9449-6e81bf59e162",
+          "title": "my-id",
+          "url": "https://myid.accenture.com/",
+          "description": "MFA, pass reset",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760429402714,
+          "deleted": false,
+          "position": 5,
+          "parentCollection": "85002503-c95c-4f3f-aaa8-e040ce92bf8a"
+        },
+        {
+          "id": "272454ad-c2ee-465a-991b-e9062c98d910",
+          "title": "Skills",
+          "url": "https://wd103.myworkday.com/accenture/d/inst/1$37/247$2434481.htmld#TABTASKID=2998%2440311",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=wd103.myworkday.com&sz=32",
+          "lastModified": 1760429431929,
+          "deleted": false,
+          "position": 6,
+          "parentCollection": "85002503-c95c-4f3f-aaa8-e040ce92bf8a"
+        },
+        {
+          "id": "011a2847-cd82-4f9b-8b1d-3965d61ca2b8",
+          "title": "Mysched",
+          "url": "https://mysched.accenture.com/me",
+          "description": "Resume, Chargibility",
+          "icon": "https://www.google.com/s2/favicons?domain=mysched.accenture.com&sz=32",
+          "lastModified": 1760429469305,
+          "deleted": false,
+          "position": 7,
+          "parentCollection": "85002503-c95c-4f3f-aaa8-e040ce92bf8a"
+        },
+        {
+          "id": "7c7f2973-c9d6-4438-90b2-ce6aecf4b6d3",
+          "title": "ECATT",
+          "url": "https://ecatt.accenture.com/Home",
+          "description": "Policies, Legal",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760429494478,
+          "deleted": false,
+          "position": 8,
+          "parentCollection": "85002503-c95c-4f3f-aaa8-e040ce92bf8a"
+        },
+        {
+          "id": "9b75641b-5c1b-405d-af78-ebac2c35cd32",
+          "title": "WorkDay",
+          "url": "https://wd103.myworkday.com/accenture/d/home.htmld",
+          "description": "Priorities, Learning",
+          "icon": "https://www.google.com/s2/favicons?domain=wd103.myworkday.com&sz=32",
+          "lastModified": 1760429518017,
+          "deleted": false,
+          "position": 9,
           "parentCollection": "85002503-c95c-4f3f-aaa8-e040ce92bf8a"
         }
       ],
       "spaces": [
         "Everything",
         "Acc"
+      ]
+    },
+    {
+      "id": "212afe18-a83e-4899-ac4e-48c56c110036",
+      "name": "Code",
+      "isOpen": true,
+      "lastModified": 1760429601680,
+      "deleted": false,
+      "position": 1,
+      "bookmarks": [
+        {
+          "id": "fae8e899-5cc0-43c0-805a-3086f631b19f",
+          "title": "DevOps",
+          "url": "https://recommendit.visualstudio.com/_settings/projects",
+          "description": "",
+          "icon": "https://recommendit.visualstudio.com/favicon.ico",
+          "lastModified": 1760429349460,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "212afe18-a83e-4899-ac4e-48c56c110036"
+        }
+      ],
+      "spaces": [
+        "Everything",
+        "Acc"
+      ]
+    },
+    {
+      "id": "d13bc685-011f-4c7d-8f19-e57e2f4c9892",
+      "name": "Skoda-Admin",
+      "isOpen": true,
+      "lastModified": 1760429610643,
+      "deleted": true,
+      "position": 0,
+      "bookmarks": [],
+      "spaces": [
+        "Everything"
       ]
     }
   ],
@@ -140,7 +243,7 @@
       "lastModified": 1760428092427
     }
   ],
-  "currentSpace": "Acc",
+  "currentSpace": "Everything",
   "collectionSortOrder": "userdefined",
   "autoBackup": {
     "enabled": true,
@@ -155,5 +258,5 @@
     "repo": "tab_ninja",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1760429200431
+  "lastSynced": 1760429620271
 }
