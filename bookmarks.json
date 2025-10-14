@@ -4,7 +4,7 @@
       "id": "980009b0-f741-4fa7-a74c-bec95a9686cd",
       "name": "Admin",
       "isOpen": true,
-      "lastModified": 1760430705544,
+      "lastModified": 1760430956682,
       "deleted": false,
       "position": 1,
       "bookmarks": [
@@ -61,6 +61,17 @@
           "lastModified": 1760430217829,
           "deleted": false,
           "position": 4,
+          "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
+        },
+        {
+          "id": "33c57cf5-2677-4d3f-a77e-b78b1f163db4",
+          "title": "Cognigy DEV",
+          "url": "https://skoda-dev.cognigy.cloud/projects",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760430956682,
+          "deleted": false,
+          "position": 5,
           "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
         }
       ],
@@ -130,7 +141,7 @@
       "id": "e5fc1934-c6a5-4363-9ba0-fc45befff7c1",
       "name": "VA",
       "isOpen": true,
-      "lastModified": 1760430705544,
+      "lastModified": 1760430944612,
       "deleted": false,
       "position": 3,
       "bookmarks": [
@@ -279,7 +290,7 @@
       "id": "2c1fb3f0-9680-487c-baca-b65c5c239193",
       "name": "SalesForce API",
       "isOpen": true,
-      "lastModified": 1760430705544,
+      "lastModified": 1760430947122,
       "deleted": false,
       "position": 5,
       "bookmarks": [
@@ -352,8 +363,8 @@
       "id": "f28b2343-3288-4f88-9675-1deb832f740f",
       "name": "AAT",
       "isOpen": true,
-      "lastModified": 1760430705544,
-      "deleted": false,
+      "lastModified": 1760431239836,
+      "deleted": true,
       "position": 8,
       "bookmarks": [],
       "spaces": [
@@ -365,8 +376,8 @@
       "id": "fe5fb5e3-5db9-4485-806e-552081c3ab28",
       "name": "LT",
       "isOpen": true,
-      "lastModified": 1760430705544,
-      "deleted": false,
+      "lastModified": 1760431241807,
+      "deleted": true,
       "position": 9,
       "bookmarks": [],
       "spaces": [
@@ -445,7 +456,7 @@
       "lastModified": 1760430396380
     }
   ],
-  "currentSpace": "Morph",
+  "currentSpace": "Skoda",
   "collectionSortOrder": "userdefined",
   "autoBackup": {
     "enabled": true,
@@ -460,5 +471,5 @@
     "repo": "tab_ninja",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1760430804723
+  "lastSynced": 1760431249478
 }
