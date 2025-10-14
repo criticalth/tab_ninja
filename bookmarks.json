@@ -1,0 +1,137 @@
+{
+  "collections": [
+    {
+      "id": "b7fea125-d5be-4068-84a5-040f57c70637",
+      "name": "Kodar.Ninja",
+      "isOpen": true,
+      "lastModified": 1760428160538,
+      "deleted": false,
+      "position": 1,
+      "bookmarks": [
+        {
+          "title": "ThrustMe!",
+          "url": "https://kodarninja.itch.io/thrustme",
+          "description": "🚀Thrust Me is a thrilling space adventure with danger and treasure!🌟🕹️",
+          "icon": "https://kodarninja.itch.io/favicon.ico",
+          "id": "8c3c7744-9e1c-48f5-8e95-251a2effef80",
+          "deleted": false,
+          "lastModified": 1737456756973,
+          "position": 0,
+          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
+        },
+        {
+          "title": "TheFile.Ninja",
+          "url": "https://thefile.ninja/",
+          "description": "A superfast, future-ready file manager powered by Everything.",
+          "icon": "https://thefile.ninja/favicon.ico",
+          "id": "2b9eea23-644a-4def-b94a-b4fc8fc6cddb",
+          "deleted": false,
+          "lastModified": 1737456756973,
+          "position": 5,
+          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
+        },
+        {
+          "title": "Labs.Kodar.Ninja",
+          "url": "https://labs.kodar.ninja/",
+          "description": "All my projects and experiments at one place.",
+          "icon": "https://thefile.ninja/favicon.ico",
+          "id": "2b9eea24-144a-4dff-b94a-b4fc8fc6cddb",
+          "deleted": false,
+          "lastModified": 1737456756973,
+          "position": 6,
+          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
+        },
+        {
+          "id": "1b82111d-5f1b-43d0-b188-a5cdaac95ced",
+          "title": "kodar.ninja - itch.io",
+          "url": "https://kodarninja.itch.io/",
+          "description": "",
+          "icon": "https://kodarninja.itch.io/favicon.ico",
+          "lastModified": 1737456756973,
+          "deleted": false,
+          "position": 14,
+          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
+        }
+      ],
+      "spaces": [
+        "Everything"
+      ]
+    },
+    {
+      "id": "85002503-c95c-4f3f-aaa8-e040ce92bf8a",
+      "name": "Admin",
+      "isOpen": true,
+      "lastModified": 1760428979526,
+      "deleted": false,
+      "position": 0,
+      "bookmarks": [
+        {
+          "id": "d7e88a25-0f13-48f2-b736-9fcb32e1057b",
+          "title": "Myte",
+          "url": "https://myte.accenture.com/#/time",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=myte.accenture.com&sz=32",
+          "lastModified": 1760428979526,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "85002503-c95c-4f3f-aaa8-e040ce92bf8a"
+        }
+      ],
+      "spaces": [
+        "Everything",
+        "Acc"
+      ]
+    }
+  ],
+  "openInNewTab": false,
+  "chromeWindowStates": {},
+  "darkMode": true,
+  "leftPaneOpen": true,
+  "rightPaneOpen": false,
+  "closeWhenSaveTab": false,
+  "activeLeftTab": "settings",
+  "zenMode": false,
+  "spaces": [
+    {
+      "name": "Everything",
+      "deleted": false,
+      "lastModified": 1760429057613
+    },
+    {
+      "name": "Acc",
+      "deleted": false,
+      "lastModified": 1760428068557
+    },
+    {
+      "name": "Morph",
+      "deleted": false,
+      "lastModified": 1760428084286
+    },
+    {
+      "name": "Per",
+      "deleted": false,
+      "lastModified": 1760428087369
+    },
+    {
+      "name": "Learn",
+      "deleted": false,
+      "lastModified": 1760428092427
+    }
+  ],
+  "currentSpace": "Acc",
+  "collectionSortOrder": "userdefined",
+  "autoBackup": {
+    "enabled": true,
+    "frequency": "daily",
+    "keepDays": 7,
+    "lastBackup": null,
+    "customFolderName": null,
+    "useCustomFolder": false
+  },
+  "githubConfig": {
+    "username": "criticalth",
+    "repo": "tab_ninja",
+    "filepath": "bookmarks.json"
+  },
+  "lastSynced": 1760429057614
+}
