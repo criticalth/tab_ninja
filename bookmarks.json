@@ -1,12 +1,164 @@
 {
   "collections": [
     {
+      "id": "e1734f63-7994-4e12-8b34-52e09eb86e64",
+      "name": "Google",
+      "isOpen": true,
+      "lastModified": 1760513131134,
+      "deleted": false,
+      "position": 0,
+      "bookmarks": [
+        {
+          "id": "76f68ec9-62c8-41d1-bc28-fb06ac0f18d0",
+          "title": "Google Keep",
+          "url": "https://keep.google.com/u/0/",
+          "description": "",
+          "icon": "https://ssl.gstatic.com/keep/keep_2023q4.ico",
+          "lastModified": 1760440829887,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "e1734f63-7994-4e12-8b34-52e09eb86e64"
+        },
+        {
+          "id": "1755c315-eacd-4d37-9417-3016ced29066",
+          "title": "Google Maps",
+          "url": "https://www.google.com/maps/@42.6731498,23.3634358,15z?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+          "description": "",
+          "icon": "https://www.google.com/images/branding/product/ico/maps15_bnuw3a_32dp.ico",
+          "lastModified": 1760440829887,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "e1734f63-7994-4e12-8b34-52e09eb86e64"
+        },
+        {
+          "id": "71a1cba7-c7e8-4d34-8e20-a7583e2681a1",
+          "title": "Google",
+          "url": "https://www.google.com/",
+          "description": "",
+          "icon": "https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+          "lastModified": 1760440829887,
+          "deleted": false,
+          "position": 2,
+          "parentCollection": "e1734f63-7994-4e12-8b34-52e09eb86e64"
+        },
+        {
+          "id": "7d5d250a-ffef-4eb0-944c-0dfcaf8619e2",
+          "title": "Gmail",
+          "url": "https://mail.google.com/mail/u/0/#inbox",
+          "description": "",
+          "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
+          "lastModified": 1760440855910,
+          "deleted": false,
+          "position": 3,
+          "parentCollection": "e1734f63-7994-4e12-8b34-52e09eb86e64"
+        },
+        {
+          "id": "9c64e94b-c7e5-4bbe-9cd4-7b02036384ac",
+          "title": "YouTube",
+          "url": "https://www.youtube.com/",
+          "description": "",
+          "icon": "https://www.youtube.com/s/desktop/589d7fcc/img/favicon_32x32.png",
+          "lastModified": 1760440829887,
+          "deleted": false,
+          "position": 4,
+          "parentCollection": "e1734f63-7994-4e12-8b34-52e09eb86e64"
+        },
+        {
+          "id": "606e4d3e-9116-45fc-8e29-9c327f2070d1",
+          "title": "Google Drive",
+          "url": "https://drive.google.com/drive/u/0/home",
+          "description": "",
+          "icon": "https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png",
+          "lastModified": 1760440848312,
+          "deleted": false,
+          "position": 5,
+          "parentCollection": "e1734f63-7994-4e12-8b34-52e09eb86e64"
+        }
+      ],
+      "spaces": [
+        "Everything",
+        "Per"
+      ]
+    },
+    {
+      "id": "272e2c94-a2c7-4797-a8ce-2ca543e42b7a",
+      "name": "Social",
+      "isOpen": true,
+      "lastModified": 1760513131134,
+      "deleted": false,
+      "position": 1,
+      "bookmarks": [
+        {
+          "id": "96db6ef5-78da-4ca3-80a8-9d8865127eb8",
+          "title": "Facebook",
+          "url": "https://www.facebook.com/",
+          "description": "",
+          "icon": "https://static.xx.fbcdn.net/rsrc.php/yx/r/e9sqr8WnkCf.ico",
+          "lastModified": 1760440776349,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "272e2c94-a2c7-4797-a8ce-2ca543e42b7a"
+        },
+        {
+          "id": "2800f06f-34f4-42e3-b9d4-5645ebc3c732",
+          "title": "Instagram",
+          "url": "https://www.instagram.com/",
+          "description": "",
+          "icon": "https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico",
+          "lastModified": 1760440764481,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "272e2c94-a2c7-4797-a8ce-2ca543e42b7a"
+        }
+      ],
+      "spaces": [
+        "Everything",
+        "Per"
+      ]
+    },
+    {
+      "id": "4ec3d8ce-7d3e-4156-a35c-07ddb945bc5d",
+      "name": "Admin",
+      "isOpen": true,
+      "lastModified": 1760513131134,
+      "deleted": false,
+      "position": 2,
+      "bookmarks": [
+        {
+          "id": "dcb16885-c102-4a80-af38-0ce3a11e4d0a",
+          "title": "jira",
+          "url": "https://morphema.atlassian.net/jira/software/projects/MORPH/boards/1/timeline",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760460208389,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "4ec3d8ce-7d3e-4156-a35c-07ddb945bc5d"
+        },
+        {
+          "id": "9afc142b-ae12-44ff-b86f-e19cf3ae3eec",
+          "title": "Jenkins",
+          "url": "https://77.76.14.85:1446/login?from=%2Fjob%2FRU-APP-PRODUCTION-DEPLOY-MANUAL%2F",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760466008685,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "4ec3d8ce-7d3e-4156-a35c-07ddb945bc5d"
+        }
+      ],
+      "spaces": [
+        "Everything",
+        "Morph"
+      ]
+    },
+    {
       "id": "980009b0-f741-4fa7-a74c-bec95a9686cd",
       "name": "Admin",
       "isOpen": true,
-      "lastModified": 1760430956682,
+      "lastModified": 1761204860766,
       "deleted": false,
-      "position": 1,
+      "position": 3,
       "bookmarks": [
         {
           "id": "34cfefb2-eecf-4140-ab29-2ff21ba9d4fd",
@@ -66,12 +218,23 @@
         {
           "id": "33c57cf5-2677-4d3f-a77e-b78b1f163db4",
           "title": "Cognigy DEV",
-          "url": "https://skoda-dev.cognigy.cloud/projects",
+          "url": "https://skoda-dev.cognigy.cloud/login?organisationId=647e0de234d6401c38cb9cbf",
           "description": "",
           "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
-          "lastModified": 1760430956682,
+          "lastModified": 1760520383796,
           "deleted": false,
           "position": 5,
+          "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
+        },
+        {
+          "id": "639e8e08-649d-490f-acc0-8240bed930a0",
+          "title": "Skoda Portal",
+          "url": "https://portalsso.skoda-auto.com/eai/adm/device/list",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1761204860766,
+          "deleted": false,
+          "position": 6,
           "parentCollection": "980009b0-f741-4fa7-a74c-bec95a9686cd"
         }
       ],
@@ -81,12 +244,37 @@
       ]
     },
     {
+      "id": "98a50b83-623f-4c0c-a9f3-2fef05bcf6b0",
+      "name": "Code",
+      "isOpen": true,
+      "lastModified": 1760513131134,
+      "deleted": false,
+      "position": 4,
+      "bookmarks": [
+        {
+          "id": "fe4e3675-75a6-44d7-b46c-b1d96e5d9967",
+          "title": "Github tabninja",
+          "url": "https://github.com/criticalth/tab_ninja",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=32",
+          "lastModified": 1760430740934,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "98a50b83-623f-4c0c-a9f3-2fef05bcf6b0"
+        }
+      ],
+      "spaces": [
+        "Everything",
+        "Per"
+      ]
+    },
+    {
       "id": "b7fea125-d5be-4068-84a5-040f57c70637",
       "name": "Kodar.Ninja",
       "isOpen": true,
-      "lastModified": 1760430705544,
+      "lastModified": 1760513131134,
       "deleted": true,
-      "position": 2,
+      "position": 5,
       "bookmarks": [
         {
           "title": "ThrustMe!",
@@ -141,9 +329,9 @@
       "id": "e5fc1934-c6a5-4363-9ba0-fc45befff7c1",
       "name": "VA",
       "isOpen": true,
-      "lastModified": 1760430944612,
+      "lastModified": 1760520388023,
       "deleted": false,
-      "position": 3,
+      "position": 6,
       "bookmarks": [
         {
           "id": "b210fdff-48af-4047-8036-f94caa8eec8f",
@@ -154,17 +342,6 @@
           "lastModified": 1760430627327,
           "deleted": false,
           "position": 0,
-          "parentCollection": "e5fc1934-c6a5-4363-9ba0-fc45befff7c1"
-        },
-        {
-          "id": "7e1e8137-0506-4569-ba7c-6965d540080a",
-          "title": "Cognigy DEV",
-          "url": "https://skoda-dev.cognigy.cloud/project/64df190ee775d21c3a06ca23/64df190eaec1d16e23ea6bbf/flows",
-          "description": "",
-          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
-          "lastModified": 1760430637280,
-          "deleted": false,
-          "position": 1,
           "parentCollection": "e5fc1934-c6a5-4363-9ba0-fc45befff7c1"
         }
       ],
@@ -177,9 +354,9 @@
       "id": "85002503-c95c-4f3f-aaa8-e040ce92bf8a",
       "name": "Admin",
       "isOpen": true,
-      "lastModified": 1760430705544,
+      "lastModified": 1760513131134,
       "deleted": false,
-      "position": 4,
+      "position": 7,
       "bookmarks": [
         {
           "id": "d7e88a25-0f13-48f2-b736-9fcb32e1057b",
@@ -290,9 +467,9 @@
       "id": "2c1fb3f0-9680-487c-baca-b65c5c239193",
       "name": "SalesForce API",
       "isOpen": true,
-      "lastModified": 1760430947122,
+      "lastModified": 1760520390055,
       "deleted": false,
-      "position": 5,
+      "position": 8,
       "bookmarks": [
         {
           "id": "ba17f28b-36d1-4670-b8ea-5d90b418fb98",
@@ -303,17 +480,6 @@
           "lastModified": 1760430334773,
           "deleted": false,
           "position": 0,
-          "parentCollection": "2c1fb3f0-9680-487c-baca-b65c5c239193"
-        },
-        {
-          "id": "0a7c4607-370a-4675-8628-2c46de113654",
-          "title": "Cognigy DEV",
-          "url": "https://skoda-dev.cognigy.cloud/project/64df18b5ec9232805f54a58f/64df18b527e4272be9356a65",
-          "description": "",
-          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
-          "lastModified": 1760430369311,
-          "deleted": false,
-          "position": 1,
           "parentCollection": "2c1fb3f0-9680-487c-baca-b65c5c239193"
         }
       ],
@@ -326,9 +492,9 @@
       "id": "212afe18-a83e-4899-ac4e-48c56c110036",
       "name": "Code",
       "isOpen": true,
-      "lastModified": 1760430705544,
+      "lastModified": 1760513131134,
       "deleted": false,
-      "position": 6,
+      "position": 9,
       "bookmarks": [
         {
           "id": "fae8e899-5cc0-43c0-805a-3086f631b19f",
@@ -351,9 +517,9 @@
       "id": "d13bc685-011f-4c7d-8f19-e57e2f4c9892",
       "name": "Skoda-Admin",
       "isOpen": true,
-      "lastModified": 1760430705544,
+      "lastModified": 1760513131134,
       "deleted": true,
-      "position": 7,
+      "position": 10,
       "bookmarks": [],
       "spaces": [
         "Everything"
@@ -363,9 +529,9 @@
       "id": "f28b2343-3288-4f88-9675-1deb832f740f",
       "name": "AAT",
       "isOpen": true,
-      "lastModified": 1760431239836,
+      "lastModified": 1760513131134,
       "deleted": true,
-      "position": 8,
+      "position": 11,
       "bookmarks": [],
       "spaces": [
         "Everything",
@@ -376,9 +542,9 @@
       "id": "fe5fb5e3-5db9-4485-806e-552081c3ab28",
       "name": "LT",
       "isOpen": true,
-      "lastModified": 1760431241807,
+      "lastModified": 1760513131134,
       "deleted": true,
-      "position": 9,
+      "position": 12,
       "bookmarks": [],
       "spaces": [
         "Everything",
@@ -386,28 +552,39 @@
       ]
     },
     {
-      "id": "98a50b83-623f-4c0c-a9f3-2fef05bcf6b0",
-      "name": "Code",
+      "id": "03b9b9b3-7472-4edc-a31b-eb9cbb530d48",
+      "name": "App",
       "isOpen": true,
-      "lastModified": 1760430740934,
+      "lastModified": 1760513131134,
       "deleted": false,
-      "position": 0,
+      "position": 13,
       "bookmarks": [
         {
-          "id": "fe4e3675-75a6-44d7-b46c-b1d96e5d9967",
-          "title": "Github tabninja",
-          "url": "https://github.com/criticalth/tab_ninja",
+          "id": "0c43109f-facf-46a8-b1b9-c53e87c2dde7",
+          "title": "kibana DEV",
+          "url": "http://localhost:9302/",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=32",
-          "lastModified": 1760430740934,
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760460331318,
           "deleted": false,
           "position": 0,
-          "parentCollection": "98a50b83-623f-4c0c-a9f3-2fef05bcf6b0"
+          "parentCollection": "03b9b9b3-7472-4edc-a31b-eb9cbb530d48"
+        },
+        {
+          "id": "4318c29d-2c89-4c80-ab37-c62b66a657af",
+          "title": "frontend DEV",
+          "url": "http://localhost:9000/",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1760460345225,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "03b9b9b3-7472-4edc-a31b-eb9cbb530d48"
         }
       ],
       "spaces": [
         "Everything",
-        "Per"
+        "Morph"
       ]
     }
   ],
@@ -456,7 +633,7 @@
       "lastModified": 1760430396380
     }
   ],
-  "currentSpace": "Skoda",
+  "currentSpace": "Per",
   "collectionSortOrder": "userdefined",
   "autoBackup": {
     "enabled": true,
@@ -471,5 +648,5 @@
     "repo": "tab_ninja",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1760431249478
+  "lastSynced": 1762441300813
 }
